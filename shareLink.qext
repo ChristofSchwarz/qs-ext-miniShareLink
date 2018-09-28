@@ -1,6 +1,7 @@
 {
 	"name": "shareLink",
-	"description": "Basic empty visualization template",
+	"description": "Minimalistic link to share current selections via url",
+	"preview" : "share.png",
 	"type": "visualization",
 	"version": "1.0.0",
 	"icon": "extension",
